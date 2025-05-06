@@ -18,3 +18,8 @@ Autor: Hubert Jędruchniewicz - 99557
 - Mainfest obrazu: `docker buildx imagetools inspect docker.io/<nazwa-uzytkownika>/zadanie1-pawcho`
 
 ![screenshot](zadanie1-pawcho/ss/podstawowe-budowanie.png)
+![screenshot](zadanie1-pawcho/ss/aplikacja.png)
+
+![screenshot](zadanie1-pawcho/ss/dodatkowe-budowanie.png)
+![screenshot](zadanie1-pawcho/ss/dodatkowe-manifest.png)
+![screenshot](zadanie1-pawcho/ss/dockerhub.png)
