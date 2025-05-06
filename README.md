@@ -17,9 +17,9 @@ Autor: Hubert Jędruchniewicz - 99557
 - Zbudowanie obrazu i umieszczenie na Docker Hub: `docker buildx build --platform linux/amd64,linux/arm64 -t <nazwa-uzytkownika>/zadanie1-pawcho --push .`
 - Mainfest obrazu: `docker buildx imagetools inspect docker.io/<nazwa-uzytkownika>/zadanie1-pawcho`
 
-![screenshot](zadanie1-pawcho/ss/podstawowe-budowanie.png)
+![screenshot](ss/podstawowe-budowanie.png)
 ![screenshot](zadanie1-pawcho/ss/aplikacja.png)
 
-![screenshot](zadanie1-pawcho/ss/dodatkowe-budowanie.png)
-![screenshot](zadanie1-pawcho/ss/dodatkowe-manifest.png)
-![screenshot](zadanie1-pawcho/ss/dockerhub.png)
+![screenshot](ss/dodatkowe-budowanie.png)
+![screenshot](ss/dodatkowe-manifest.png)
+![screenshot](ss/dockerhub.png)
