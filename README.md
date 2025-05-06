@@ -11,7 +11,7 @@ Autor: Hubert Jędruchniewicz - 99557
 
 # Zadanie 1 Dodatkowe - PAwChO
 
-## Polecenia:
+## Dodatkowe 1 - Polecenia:
 
 - W celu zalogowania do Docker Hub: `docker login`
 - Zbudowanie obrazu i umieszczenie na Docker Hub: `docker buildx build --platform linux/amd64,linux/arm64 -t <nazwa-uzytkownika>/zadanie1-pawcho --push .`
